@@ -1,0 +1,72 @@
+---
+title: "Logboek Fabian"
+author: "F Kinds"
+date: "21-05-2026"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Introductie
+Kijken wat het effect van alochol is op de groei van planten, in dit geval specifiek het effect op de tuinkers. Dit doen door de planten water te geven gemixt met verschillende alcohol concentraties
+
+## Onderzoeksvraag en hypothese
+Dit leidt  dan tot de volgende primaire onderzoeksvraag:
+"Wat is het effect van verschillende alcoholpercentages op de groei van de tuinkers?"
+ 
+En de nulhypothese (h0):
+"Alcohol zal geen effect hebben op de groei van de tuinkers."
+ 
+En de hypothese (h1):
+"Alcohol heeft een negatief effect op de groei van de tuinkers. Hoe hoger het alcoholpercentage, hoe slechter de plant zal groeien en bij te hoge concentraties zal hij helemaal niet meer groeien.
+ 
+ 
+ 
+Daarnaast hebben we nog wat extra zijvragen:
+Vraag: "Is er een verandering in kleur, naarmate de alcoholconcentratie toeneemt?"
+h0: "De alcoholconcentratie heeft geen effect op de kleur van de planten." 
+h1: "Naarmate de alcoholconcentratie toeneemt, zal de plant lichter van kleur worden."
+ 
+Vraag: "Is er een verandering in vorm, naarmate de alcoholconcentratie toeneemt?"
+h0: "De alcoholconcentratie heeft geen effect op de vorm van de planten." 
+h1: "Naarmate de alcoholconcentratie toeneemt, zal de plant niet meer instaat zijn rechtop te staan"
+ 
+Vraag: "Verandert het aantal ontkiemende zaadjes, naarmate de alcoholconcentratie toeneemt?"
+h0: "De alcoholconcentratie heeft geen effect op het aantal ontkiemde zaadjes." 
+h1: "Naarmate de alcoholconcentratie toeneemt, zullen minder zaadjes ontkiemen."
+
+## Data
+
+
+
+# 20-05-2026
+Doel: Bijhouden van het experiment en bedenken statischtsche tests
+Motivatie: Om resultaten te krijgen moet het expderiment dagelijks bijgehouden worden
+
+Werkzaamheden: Vandaag hebben we de statischtische methodes die we gaan gebruiken vastgesteld. Hiervoor gebruiken we een one-way ANOVA test en een two-way chi test. Ook gaan we verschillende boxplots maken of/en een gluc plotje. Ook heb ik het experiment bijgewerkt, dus het geven van de ethanol oplossing en het noteren van ontkiemings aantal, kleur en vorm.
+
+
+Resultaten: Grafieken en statistische tests. Bijgewerkte plant data.
+Analyse van resultaten: Nog geen nuttige data.
+Conclusie: Afwachten tot dat er nuttige resultaten zijn.
+
+
+# 21-05-2026
+Doel: Bijhouden van het experiment en klaarmaken voor mid-term review
+Motivatie: Om resultaten te krijgen moet het expderiment dagelijks bijgehouden worden. Om een goeie beoordeling te kunnen krijgen moet alles netjes gemaakt worden en op github geupload zijn.
+
+Werkzaamheden: Het experiment is bijgehoude. Planten hebben de ethanol oplossing gekregen en de lengte, ontkiemingsaantal, kleur en vorm zijn genoteerd. De planten zijn verplaats van de slaapkamer naar de werkkamer, aangezeien hier betere ventilatie is voor eventueel verdampe ethanol. We hebben het protocol, logboek, ruwe data en abstract allemaal op github geupload voor de midterm review
+
+Resultaten: Bijgewerkte plant data en up-to-date github.
+Analyse van resultaten: Nog geen nuttige data.
+Conclusie: Afwachten tot dat er nuttige resultaten zijn.
+ 
+
+
+
+```{r}
+
+```
+

@@ -1,0 +1,65 @@
+---
+title: "Logboek Oscar"
+author: "O Dogger"
+date: "21-5-2026"
+output: html_document
+---
+
+
+
+
+# Intoruductie
+Kijken wat het effect van alochol is op de groei van planten, in dit geval specifiek het effect op de tuinkers. Dit doen door de planten water te geven gemixt met verschillende alcohol concentraties
+
+# Onderzoeksvraag en hyptohese
+Dit leidt  dan tot de volgende primaire onderzoeksvraag:
+"Wat is het effect van verschillende alcoholpercentages op de groei van de tuinkers?"
+ 
+En de nulhypothese (h0):
+"Alcohol zal geen effect hebben op de groei van de tuinkers."
+ 
+En de hypothese (h1):
+"Alcohol heeft een negatief effect op de groei van de tuinkers. Hoe hoger het alcoholpercentage, hoe slechter de plant zal groeien en bij te hoge concentraties zal hij helemaal niet meer groeien.
+ 
+Daarnaast hebben we nog wat extra zijvragen:
+Vraag: "Is er een verandering in kleur, naarmate de alcoholconcentratie toeneemt?"
+h0: "De alcoholconcentratie heeft geen effect op de kleur van de planten." 
+h1: "Naarmate de alcoholconcentratie toeneemt, zal de plant lichter van kleur worden."
+ 
+Vraag: "Is er een verandering in vorm, naarmate de alcoholconcentratie toeneemt?"
+h0: "De alcoholconcentratie heeft geen effect op de vorm van de planten." 
+h1: "Naarmate de alcoholconcentratie toeneemt, zal de plant niet meer instaat zijn rechtop te staan"
+ 
+Vraag: "Verandert het aantal ontkiemende zaadjes, naarmate de alcoholconcentratie toeneemt?"
+h0: "De alcoholconcentratie heeft geen effect op het aantal ontkiemde zaadjes." 
+h1: "Naarmate de alcoholconcentratie toeneemt, zullen minder zaadjes ontkiemen."
+
+
+# Data
+WIP
+
+# Logboek
+
+# 18-5-2026
+
+Doel: Experiment klaar zetten en laten starten. 
+Motivatie: Experiment willen doen anders geen experiment
+Uitgevoerde werkzaamheden: We hebben petrischaaltjes met watjes gevult en willekeurig naast elkaar gezet, dan hebben we er zaadjes op gelegt (10 per bakje). Daarna hebben we de corrosponderende alcohol concentratie bij de petrischaaltjes gedaan. We hebben ook nog dan de doppen van de petrischaaltjes er weer op gelegt om verdamping van alcohol tegen te gaan. 
+
+Resultaten: Het experiment is nu begonnen. 
+
+
+# 20-5-2026
+Doel: Bedenken van statischem methodes waar wij gebruik van gaan maken.
+Motivatie: We moeten onze verzamelde data in een leuk grafiekje laten zien.
+
+
+Resultaat: Grafieken en statistische tests.
+
+# 21-5-2026
+Doel: Github vernetten en klaar maken voor midterm review. 
+Motivatie: Om een goeie beoordeling te krijgen
+
+Uitgevoerde werkzaamheden: We hebben het protocol in de github gezet en het abstract en mapjes aangemaakt. mapjes: raw_data, protocols, publication, analysis
+
+Resultaat: netter github
