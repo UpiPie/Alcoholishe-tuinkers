@@ -1,2 +1,3 @@
 # Alcoholishe-tuinkers
-Deze repo word gebruikt om data van ons experiment te verwerken waarbij wij tuinkersen gaan laten groeien bij verschillende concentraties alcohol in hun water.
+Deze repo omschrijft het experiment waarbij er verschillende concentraties ethanol-water oplossingen worden gebruikt om de tuinkers te laten groeien.
+Hier kun je de ruwe data, onze logboeken, onze publicatie en nog meer vinden.
