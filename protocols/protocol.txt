@@ -1,5 +1,6 @@
 Onderzoeksdoel
-Kijken wat het effect van alochol is op de groei van planten, in dit geval specifiek het effect op de tuinkers. Dit doen door de planten water te geven gemixt met verschillende alcohol concentraties
+Kijken wat het effect van alochol is op de groei van planten, in dit geval specifiek het effect op de tuinkers.
+Dit doen door de planten water te geven gemixt met verschillende alcohol concentraties
 
 
 Onderzoeksvraag en hypotheses
@@ -10,7 +11,8 @@ En de nulhypothese (h0):
 "Alcohol zal geen effect hebben op de groei van de tuinkers."
  
 En de hypothese (h1):
-"Alcohol heeft een negatief effect op de groei van de tuinkers. Hoe hoger het alcoholpercentage, hoe slechter de plant zal groeien en bij te hoge concentraties zal hij helemaal niet meer groeien.
+"Alcohol heeft een negatief effect op de groei van de tuinkers.
+Hoe hoger het alcoholpercentage, hoe slechter de plant zal groeien en bij te hoge concentraties zal hij helemaal niet meer groeien.
  
  
  
@@ -29,7 +31,9 @@ h1: "Naarmate de alcoholconcentratie toeneemt, zullen minder zaadjes ontkiemen."
  
  
 Protocol/Opzet
-Experiment: Voor 6 verschillende alcoholpercentages zal het effect op de tuinkers getest worden. Voor elke alcoholpercentage zullen drie bakken met tuinkers getest worden, wat betekent dat in totaal 18 bakken met tuinkers gebruikt worden. Hiervan zal de lengte, kleur, vorm, ontkiemingsaantallen en eventueel andere bijzonderheden dagelijks van worden vastgesteld.
+Experiment: Voor 6 verschillende alcoholpercentages zal het effect op de tuinkers getest worden.
+Voor elke alcoholpercentage zullen drie bakken met tuinkers getest worden, wat betekent dat in totaal 18 bakken met tuinkers gebruikt worden.
+Hiervan zal de lengte, kleur, vorm, ontkiemingsaantallen en eventueel andere bijzonderheden dagelijks van worden vastgesteld.
 
  
 
@@ -45,16 +49,27 @@ Meetlint/liniaal
 Petrischaaltjes: 21
 Watjes
 Stift
+
 Verzamelen van data:
 
-Op dag 0 zullen alle Petrischaaltjes klaargemaakt worden. Voor elke aparte alcohol-oplossing (0%, 0.1%, 0.5%, 1%, 2%, 5%, 10%) zullen 3 petrischaaltje gebruikt worden. Hierin zullen eerst de watjes gelegd worden, waarna in elke bak 10 zaden op gelijke afstand van elkaar worden verspreid. Daarna zullen ze hun eerste lading alcohol oplossing ontvangen. Label de bakjes met de alcoholconcentratie (0%, 0.1%, 0.5%, 1%, 2%, 5%, 10%) die de komende 10 dagen gebruikt wordt en geef elke bak 10 ml van deze oplossing. Zet vervolgens alle petrischaaltjes op een plek waar ze vergelijkbare tempratuur en licht hebben. Het is belangrijk om ze niet in de volle zon te zetten, want dan drogen ze uit, maar ze zijn wel licht nodig om te groeien. Nu is het experiment opgezet en kun je het voor de rest van de dag met rust laten. Voor elke opvolgende dag tot het eind van het experiment, zorg ervoor dat je dagelijks 10 ml oplossing blijft geven. Meet ook de hoogte van de tuinkers, noteer de kleur en vorm, noteer ook nog het aantal ontkiemde zaade en eventueel nog andere bijzonderheden. 
+Op dag 0 zullen alle Petrischaaltjes klaargemaakt worden. Voor elke aparte alcohol-oplossing (0%, 0.1%, 0.5%, 1%, 2%, 5%, 10%) zullen 3 petrischaaltje gebruikt worden.
+Hierin zullen eerst de watjes gelegd worden, waarna in elke bak 10 zaden op gelijke afstand van elkaar worden verspreid. Daarna zullen ze hun eerste lading alcohol oplossing ontvangen.
+Label de bakjes met de alcoholconcentratie (0%, 0.1%, 0.5%, 1%, 2%, 5%, 10%) die de komende 10 dagen gebruikt wordt en geef elke bak 10 ml van deze oplossing.
+Zet vervolgens alle petrischaaltjes op een plek waar ze vergelijkbare tempratuur en licht hebben.
+Het is belangrijk om ze niet in de volle zon te zetten, want dan drogen ze uit, maar ze zijn wel licht nodig om te groeien.
+Nu is het experiment opgezet en kun je het voor de rest van de dag met rust laten.
+Voor elke opvolgende dag tot het eind van het experiment, zorg ervoor dat je dagelijks 10 ml oplossing blijft geven.
+Meet ook de hoogte van de tuinkers, noteer de kleur en vorm, noteer ook nog het aantal ontkiemde zaade en eventueel nog andere bijzonderheden.
 
  
 
 Meetprotocol:
 
 Voor het ontkiemingsaantal wordt geteld uit hoeveel zaadjes een stam is gegroeid. 
-
-Voor de lengte wordt de lengte van de stam gemeten (vanaf het zaadje tot de bovenkant), exclusief de bladeren. Als de stam niet recht is, wordt hij tijdelijk rechtop getrokken om te meten. Voor de kleur wordt gebruik gemaakt van een vooraf gemaakt spectrum. Hiervan wordt vervolgens de meest overkomende kleur gekozen voor de meest groene plant. De vorm wordt zo duidelijk mogelijk beschreven, ondersteund met genomen fotos.
+Voor de lengte wordt de lengte van de stam gemeten (vanaf het zaadje tot de bovenkant), exclusief de bladeren.
+Als de stam niet recht is, wordt hij tijdelijk rechtop getrokken om te meten.
+Voor de kleur wordt gebruik gemaakt van een vooraf gemaakt spectrum.
+Hiervan wordt vervolgens de meest overkomende kleur gekozen voor de meest groene plant.
+De vorm wordt zo duidelijk mogelijk beschreven, ondersteund met genomen fotos.
 
 
