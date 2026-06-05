@@ -64,8 +64,174 @@ Analyse van resultaten: Nog geen nuttige data.
 Conclusie: Afwachten tot dat er nuttige resultaten zijn.
  
 
+# 22-05-2026
+Doel: Onderhouden van het experiment
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
 
 
+# 23-05-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+# 24-05-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+# 25-05-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+ 
+
+# 26-05-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+
+# 27-05-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+# 28-05-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+# 29-05-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+
+# 30-05-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+
+# 31-05-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+
+# 01-06-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+# 02-06-2026
+Doel:
+Motivatie: 
+
+Werkzaamheden:
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+# 03-06-2026
+Doel: Maken van code voor analyse
+Motivatie: De data is verzameld en moet nu verwerkt worden
+
+Werkzaamheden: Samen met oscar hebben we de data ingelezen
+
+Resultaten:
+Analyse van resultaten:
+Conclusie:
+
+
+# 04-06-2026
+Doel: Verder werken aan code
+Motivatie: Deadline komt dichterbij, dus moet de code zo snel mogelijk klaar.
+
+Werkzaamheden:  Niks
+
+Resultaten: 
+Analyse van resultaten:
+Conclusie:
+
+
+
+# 05-06-2026
+Doel: Afronden analyse
+Motivatie: Dan kunnen we van het weekend beginnen aan het paper
+
+Werkzaamheden: niks
+
+Resultaten:   
+Analyse van resultaten:
+Conclusie:
 ```{r}
 
 ```
