@@ -35,25 +35,25 @@ Dagelijks kregen de planten 10ml van de bijbehorende ethanol oplossing. Vervolge
 
 Ethanol blijkt een goeie remmer te zijn voor de groei van de tuinkers. Afhankelijk van de concentratie remt het de groei van de plant, zowel als de ontkiemingsratio voor een 10% concentratie. De hoeveelheid waarin dit wordt geremd is wel erg afhankelijk van de concentratie. Zo wordt de lengte minimaal geremd door een 0.1% concentratie, voor 0.5-5% is er een significant verschil te zien en voor 10% is er zelfs nauwelijks groei. De verschillen hierin worden al zichtbaar vanaf dag twee/drie, zoals te zien in figuur 1A.  Daarnaast is ook te zien dat de planten met de 0,5% en 1% ethanol oplossing in eerste instantie sneller beginnen met groeien, maar naarmate het experiment verder komt worden ze bijgehaald door de 2 en 5% oplossingen. Uiteindelijk is er op dag 10 zelfs geen significant verschil in lengte tussen de planten met de 0,5%, 1%, 2% en 5% ethanol oplossing.
 
-![](data/verslag/figuur_1.png)
+![](/verslag/figuur_1.png)
 
 Figuur 1: (A) Grafiek van de gemiddelde lengte (in cm) van de planten per dag per ethanol concentratie. (B) Boxplots met lengte van de planten (in cm) voor verschillende ethanol concentraties. Dit is van links naar rechts en boven naar beneden voor dag 1, 4, 7 en 10 zoals ook boven elke plot staat aangegeven. 
 
 Naast de lengte van de planten hebben we ook gekeken naar het ontkiemingsaantal onder verschillende ethanol concentraties. Als er alleen zou worden gekeken naar dag 10 is er te zien dat alleen voor de planten in de 10% ethanol oplossing niet alle zaadjes zijn ontkiemd, wat dus wel het geval was voor alle andere concentraties. Echter als je ook kijkt naar eerdere dagen, zoals getoond in figuur 2, zie je dat er zeker in de eerste dagen een verschil te zien is in het ontkiemingsaantal. Zeker op dag 1 is te zien dat zaden in de hogere ethanoloplossing moeite hebben met ontkiemen, en dat dit in de lagere concentraties wat eerder gebeurt. Echter zijn vanaf dag 3/4 zo goed als alle zaadjes ontkiemt, behalve degene in de 10% ethanoloplossing. 
 
-![](data/verslag/figuur_2.png)
+![](/verslag/figuur_2.png)
 
 Figuur 2: Plots met de hoeveelheid ontkiemde zaadjes per ethanolconcentratie.  Het totaal per concentratie is 30 zaden en dit is weergegeven voor dag 1, 2, 3, 4, 7 en 10. Elke dag staat ook aangegeven boven de bijbehorende plot.
 
 Verder is ook nog gekeken of eventueel het nummer van het petrischaaltje waarin de planten groeiden impact had op de groei, gezien de petrischaaltjes met nummer 1 voor nummer 2 stonden, en die dan weer voor nummer 3 stonden. Het had kunnen zijn dat deze petrischaaltjes daardoor net wat betere of juist slechtere condities hadden en daardoor impact hadden op de groei. Echter is in figuur 3 te zien dat de petrischaal nummer geen impact lijkt te hebben op de groei. Er is geen duidelijk patroon te koppelen aan het petrischaal nummer en welke petrischaal gemiddeld de hoogste lengte heeft is afhankelijk van welke ethanolconcentratie je bekijkt.
 
-![](data/verslag/figuur_3.png)
+![](/verslag/figuur_3.png)
 
 Figuur 3: De gemiddelde lengte (in cm) per concentratie ethanol oplossing per petrischaal. Dit zijn de gegevens voor dag 10.
 
 Als laatst is ook nog gekeken of de ethanol concentratie invloed had op de kleur en of vorm van de planten.  Zoals te zien is in figuur 4, hebben de verschillende ethanol concentraties geen effect gehad op de vorm en/of kleur. Alleen de kleur van de planten bij de 10% ethanol concentratie hebben een lichtere kleur, maar dit is te verklaren met dat deze later ontkiemd zijn, en dus waarschijnlijk nog in een vroeger stadium van de groei. De kleur van deze planten komt overeen met de kleur van de planten van andere ethanol percentages, tijdens dit moment van de groei. Ook de vorm is redelijk overeenkomend. De stammen van de plantjes liggen vaak gebogen of krom en hebben moeite met recht overeind blijven. Dit geld voor alle ethanol concentraties.
 
-![](data/verslag/figuur_4.jpg)
+![](/verslag/figuur_4.jpg)
 
 Figuur 4: Van links naar rechts oplopende ethanol concentraties: 0, 0.1, 0.5, 1, 2, 5, 10.
 
@@ -94,7 +94,7 @@ Samenvattend, de resultaten tonen aan dat ethanol, onder deze experimentele omst
 ### Berekening
 
 Ethanol:
-![figuur 5](data/verslag/bijlage_ethanol.png)
+![](/verslag/bijlage_ethanol.png)
 T=273.15+20 = 293.15
 Log10(p) = 5.24677 - (1598.673 / (293.15-46.424)) 
 Log10(p) = 5.24677-1598.673/246.726
@@ -104,7 +104,7 @@ Log10(p) = -1.23277816274
 0.0585 bar = 5.85 kPa
 
 Water:
-![](data/verslag/bijlage_water.png){width=100%}
+![](/verslag/bijlage_water.png){width=100%}
 T=273.15+20 = 293.15
 Log10(P) = 5.40221 – (1838.675 / (293.15 - 31.737))
 Log10(P) = 5.40221 - 1838.675/261.413
@@ -114,7 +114,7 @@ Log10(P) = -1.63139
 0.0234 bar = 2.34 kPa
 
 ## Tabel
-![](data/verslag/bijlage_tukey.png)
+![](/verslag/bijlage_tukey.png)
 
 
 Tabel: Resultaten Tukey HSD test op lengtes voor verschillende concentraties ethanol. Als de p-waarde onder de 0.05 ligt is er een significant verschil in lengte tussen de twee ethanol concentraties.
