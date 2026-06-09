@@ -96,10 +96,16 @@ Samenvattend, de resultaten tonen aan dat ethanol, onder deze experimentele omst
 
 # Bronnen
 
-[1] Deinlein U, Stephan AB, Horie T, Luo W, Xu G, Schroeder JI. (2014). Plant salt-tolerance mechanisms. https://pubmed.ncbi.nlm.nih.gov/24630845/ 
+[1] Deinlein U, Stephan AB, Horie T, Luo W, Xu G, Schroeder JI. (2014). Plant salt-tolerance mechanisms. https://pubmed.ncbi.nlm.nih.gov/24630845/
+
 [2] Pearl R, Allen A. (1926). THE INFLUENCE OF ALCOHOL UPON THE GROWTH OF SEEDLINGS. https://pmc.ncbi.nlm.nih.gov/articles/PMC2140761/ 
+
 [3] William B. Miller, Erin Finan. (1 Jan 2026). Root-zone Alcohol Is an Effective Growth Retardant for Paperwhite Narcissus https://journals.ashs.org/view/journals/horttech/16/2/article-p294.xml 
-[4] National Institute of Standards and Technology. Ethanol. NIST Chemistry WebBook. Beschikbaar via: https://webbook.nist.gov/cgi/cbook.cgi?ID=C64175&Plot=on&Type=ANTOINE [5] National Institute of Standards and Technology. Ethanol. NIST Chemistry WebBook. Beschikbaar via:https://webbook.nist.gov/cgi/cbook.cgi?ID=C7732185&Plot=on&Type=ANTOINE
+
+[4] National Institute of Standards and Technology. Ethanol. NIST Chemistry WebBook. Beschikbaar via: https://webbook.nist.gov/cgi/cbook.cgi?ID=C64175&Plot=on&Type=ANTOINE 
+
+[5] National Institute of Standards and Technology. Ethanol. NIST Chemistry WebBook. Beschikbaar via:https://webbook.nist.gov/cgi/cbook.cgi?ID=C7732185&Plot=on&Type=ANTOINE
+
 [6] Kern KA, Pergo EM, Kagami FL, Arraes LS, Sert MA, Ishii-Iwamoto EL. (2009). The phytotoxic effect of exogenous ethanol on Euphorbia heterophylla L. https://pubmed.ncbi.nlm.nih.gov/19640725/
 
 ### Berekening
