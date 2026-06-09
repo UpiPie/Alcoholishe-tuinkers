@@ -37,7 +37,7 @@ h1: "Naarmate de alcoholconcentratie toeneemt, zullen minder zaadjes ontkiemen."
 
 
 # Data
-WIP
+De data gemeten gedurende het experiment is te zien in raw_data/2026-05-growth-tuinkers-alcohol.csv
 
 # Logboek
 
@@ -86,10 +86,10 @@ Uitgevoerde dingen:
 tukeyHSD: https://www.socscistatistics.com/tutorials/tukey-hsd/
 
 Lengte grafiek:
-![](data/Plant_Groei.png)
+![](data/Plant_Groei_per_dag.png)
 
 Lengte boxplot:
-![](data/groei.png)
+![](data/groei_dag_1_4_7_10.png)
 
 Ontkiemingsaantal barplot:
 ![](data/Ontkiemings_aantal.png)
@@ -118,10 +118,10 @@ Uitgevoerden taken:
         3. Ik heb mijn tekst van onderzoeksopzet en materiaal niet meer dubbel op gemaakt. 
         4. Ik heb ons word document omgezet naar Rmd en een folder verslag gemaakt waarbij alle foto's in staan van ons verslag.
         5. Ik heb mijn logboek opgenet en afgemaakt.
+        6. Readme gemaakt.
+        7. Abstract afgemaakt.
         
 Barplot van petrischaaltjes:
-![](data/groei_per_petrischaal.png.png)
+![](data/groei_per_petrischaal.png)
 
 Conclusie: Het is nu klaar om inteleveren!
-
-

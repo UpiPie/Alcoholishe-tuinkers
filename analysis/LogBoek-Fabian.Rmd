@@ -1,0 +1,192 @@
+---
+title: "Logboek Fabian"
+author: "F Kinds"
+date: "09-06-2026"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Introductie
+Kijken wat het effect van alochol is op de groei van planten, in dit geval specifiek het effect op de tuinkers. Dit doen door de planten water te geven gemixt met verschillende alcohol concentraties
+
+## Onderzoeksvraag en hypothese
+Dit leidt  dan tot de volgende primaire onderzoeksvraag:
+"Wat is het effect van verschillende alcoholpercentages op de groei van de tuinkers?"
+ 
+En de nulhypothese (h0):
+"Alcohol zal geen effect hebben op de groei van de tuinkers."
+ 
+En de hypothese (h1):
+"Alcohol heeft een negatief effect op de groei van de tuinkers. Hoe hoger het alcoholpercentage, hoe slechter de plant zal groeien en bij te hoge concentraties zal hij helemaal niet meer groeien.
+ 
+ 
+ 
+Daarnaast hebben we nog wat extra zijvragen:
+Vraag: "Is er een verandering in kleur, naarmate de alcoholconcentratie toeneemt?"
+h0: "De alcoholconcentratie heeft geen effect op de kleur van de planten." 
+h1: "Naarmate de alcoholconcentratie toeneemt, zal de plant lichter van kleur worden."
+ 
+Vraag: "Is er een verandering in vorm, naarmate de alcoholconcentratie toeneemt?"
+h0: "De alcoholconcentratie heeft geen effect op de vorm van de planten." 
+h1: "Naarmate de alcoholconcentratie toeneemt, zal de plant niet meer instaat zijn rechtop te staan"
+ 
+Vraag: "Verandert het aantal ontkiemende zaadjes, naarmate de alcoholconcentratie toeneemt?"
+h0: "De alcoholconcentratie heeft geen effect op het aantal ontkiemde zaadjes." 
+h1: "Naarmate de alcoholconcentratie toeneemt, zullen minder zaadjes ontkiemen."
+
+## Data
+De data gemeten gedurende het experiment is te zien in raw_data/2026-05-growth-tuinkers-alcohol.csv
+
+
+# 20-05-2026
+Doel: Bijhouden van het experiment en bedenken statischtsche tests
+Motivatie: Om resultaten te krijgen moet het expderiment dagelijks bijgehouden worden
+
+Werkzaamheden: Vandaag hebben we de statischtische methodes die we gaan gebruiken vastgesteld. Hiervoor gebruiken we een one-way ANOVA test en een two-way chi test. Ook gaan we verschillende boxplots maken of/en een gluc plotje. Ook heb ik het experiment bijgewerkt, dus het geven van de ethanol oplossing en het noteren van ontkiemings aantal, kleur en vorm.
+
+
+Resultaten: Grafieken en statistische tests. Bijgewerkte plant data.
+Analyse van resultaten: Nog geen nuttige data.
+Conclusie: Afwachten tot dat er nuttige resultaten zijn.
+
+
+# 21-05-2026
+Doel: Bijhouden van het experiment en klaarmaken voor mid-term review
+Motivatie: Om resultaten te krijgen moet het expderiment dagelijks bijgehouden worden. Om een goeie beoordeling te kunnen krijgen moet alles netjes gemaakt worden en op github geupload zijn.
+
+Werkzaamheden: Het experiment is bijgehouden. Planten hebben de ethanol oplossing gekregen en de lengte, ontkiemingsaantal, kleur en vorm zijn genoteerd. De planten zijn verplaats van de slaapkamer naar de werkkamer, aangezeien hier betere ventilatie is voor eventueel verdampe ethanol. We hebben het protocol, logboek, ruwe data en abstract allemaal op github geupload voor de midterm review
+
+Resultaten: Bijgewerkte plant data en up-to-date github.
+Analyse van resultaten: Nog geen nuttige data.
+Conclusie: Afwachten tot dat er nuttige resultaten zijn.
+ 
+
+# 22-05-2026
+Doel: Bijhouden van het experiment.
+Motivatie: Om goede resultaten te krijgen is het belangrijk om het experiment dagelijks bij te houden.
+
+Werkzaamheden: De planten hebben water gekregen. Ook is de lengte en het ontkiemingsaantal genoteerd. We hebben er vanaf nu voor gekozen om de kleur en vorm van de planten alleen op de laatste dag, dus dag 10 te noteren en hier naar te kijken. Hier hebben we voor gekozen omdat de kleur nu alleen wat zegt over wanneer de planten zijn ontkiemd. Het zelfde geld voor de vorm. Op dag 10 gaan we ervan uit dat onder normale omstandigheden de plantjes zouden moeten uitgegroeid zijn, en dus kunnen we ook dan pas wat zeggen over eventuele verschillen in kleur en vorm.
+
+Resultaten: Zie data-sheet
+Analyse van resultaten: Er begint een duidelijk verschil te ontstaan tussen de lengtes van de planten van verschillende concentraties. Zaden van de 10% concentratie beginnen ook te ontkiemen
+Conclusie: Het experiment verloopt soepel en tot dus ver zoals verwacht, op het ontkiemen van zaden in de 10% oplossing na.
+
+
+# 23-05-2026
+Doel: Bijhouden van het experiment.
+Motivatie: Om goede resultaten te krijgen is het belangrijk om het experiment dagelijks bij te houden.
+
+Werkzaamheden: De planten hebben water gekregen. Ook is de lengte en het ontkiemingsaantal genoteerd.
+
+Resultaten: Zie data-sheet
+Analyse van resultaten: Het verschil in lengte van de planten blijft groeien. Ook het aantal ontkiemde zaden voor 10% is weer tegen verwachting in gegroeid.
+Conclusie: Het experiment verloopt verder zoals in de lijn van verwachting. 
+
+
+# 24-05-2026
+Doel: Bijhouden van het experiment.
+Motivatie: Om goede resultaten te krijgen is het belangrijk om het experiment dagelijks bij te houden.
+
+Werkzaamheden: De planten hebben water gekregen. Ook is de lengte en het ontkiemingsaantal genoteerd.
+
+Resultaten: Zie data-sheet
+Analyse van resultaten: Het verschil in lengte van de planten blijft groeien. Er zijn geen zaden ontkiemd bij de 10% concentratie
+Conclusie: Het experiment verloopt verder zoals in de lijn van verwachting. 
+
+
+# 25-05-2026
+Doel: Bijhouden van het experiment.
+Motivatie: Om goede resultaten te krijgen is het belangrijk om het experiment dagelijks bij te houden.
+
+Werkzaamheden: De planten hebben water gekregen. Ook is de lengte en het ontkiemingsaantal genoteerd.
+
+Resultaten: Zie data-sheet
+Analyse van resultaten: De planten van de 1% concentratie zijn een hoop minder gegroeid dan voorgaande dagen en zijn nog maar iets groter dan de 2% concetratie
+Conclusie: De planten met 1% ethanol groeien onverwachts sloom.
+
+
+# 26-05-2026
+Doel: Bijhouden van het experiment en presentatie journalclub maken.
+Motivatie: Om goede resultaten te krijgen is het belangrijk om het experiment dagelijks bij te houden en de journalclub presentatie moet voor morgen worden ingeleverd.
+
+Werkzaamheden: De planten hebben water gekregen. Ook is de lengte en het ontkiemingsaantal genoteerd. Ook heb ik de slides voor de journal club presentatie gemaakt en ingeleverd.
+
+Resultaten: Zie data-sheet en journalclub presentatie
+Analyse van resultaten: De planten vaN 1% ethanol concentratie zijn niet veel verder gegroeid en nu daadwerkelijk ingheaald door de 2%. Zelfs de 5% haalt ze bijna in in gemiddelde lengte. Ook de 0.5% is een hoop minder gegroeid de afgelopen dag.
+Conclusie: De 0,5 en 1% ethanol concentraties lijken meer last te hebben van de alcohol dan de 2 en 5 %
+
+
+# 27-05-2026
+Doel: Bijhouden van het experiment.
+Motivatie: Om goede resultaten te krijgen is het belangrijk om het experiment dagelijks bij te houden.
+
+Werkzaamheden: De planten hebben water gekregen. Ook is de lengte en het ontkiemingsaantal genoteerd.
+
+Resultaten: Zie data-sheet
+Analyse van resultaten: Ook de 5% ethanol heeft nu de gemiddelde lengte van de 1% oplossing ingehaald. De 2% heeft ondertussen de 0.5% concentratie ook ingehaald
+Conclusie: Het lijkt erop dat het effect van de ethanol oplossing tussen de 0.5% tot 5% vooral impact heeft op hoe snel de planten beginnen met groeien, maar niet op de uiteindelijke lengte 
+
+
+
+# 28-05-2026
+Doel: Bijhouden van het experiment en maken van tekst journalclub.
+Motivatie: Om goede resultaten te krijgen is het belangrijk om het experiment dagelijks bij te houden. Ook is morgen mijn presentatie dus moet mijn tekst af vandaag.
+
+Werkzaamheden: De lengte en het ontkiemingsaantal van de planten is genoteerd. Aangezien dit dag 10 van het experiment is en dus de laatste is ook de vorm en kleur van de planten genoteerd en gefotografeerd. Ook heb ik mijn tekst voor de journalclub presentatie voorbereid en geleerd.
+
+Resultaten: Zie data-sheet ![](../publication/verslag/figuur_4.jpg)
+
+Analyse van resultaten: De meeste planten zijn bijna niet meer gegroeid, op de 0% na. Ook is de volgorde in gemiddelde lengte tussen 0.5-5% niet veranderd en allemaal weinig gegroeid, wat tot de uiteindelijke volgorde van 2, 0.5, 5, 1 leid. Ook is er geen duidelijk verschil op te merken in de kleur of vorm van de planten bij verschillende concnetraties ethanol. Alleen voor de 10% oplossing zijn niet alle zaden ontkiemd.
+Conclusie: Alcohol lijkt een impact te hebben op de groei, al lijkt dit wel erg afhankelijk op de concnetratie, waarbij tussen de 0.5-5% alleen een verschil in moment van de start van de groei lijkt te zijn.
+
+
+# 03-06-2026
+Doel: Code schrijven voor statistische analyse en plots
+Motivatie: De data moet verwerkt en gevisualiseerd worden voor ons artikel
+
+Werkzaamheden: Samen met oscar hebben we data geschreven voor de plots in de resultaten.  Ook hebben we code voor de one-way anova en TukeyHSD test geschreven voor de lengte van de planten op dag 10 voor de verschillende concentraties. Ook hebben we een chi-test gedaan om te kijken of er een verband is tussen de ethanol concentratie en het ontkiemingsaantal.
+
+
+Resultaten: Lengte grafiek:
+![](data/Plant_Groei_per_dag.png)
+
+Lengte boxplot:
+![](data/groei_dag_1_4_7_10.png)
+
+Ontkiemingsaantal barplot:
+![](data/Ontkiemings_aantal.png)
+
+Analyse van resultaten: Er is een duidelijk verschil te zien tussen de concentraties. Ook gaf onze anova en tukey ttest aan dat er zeker significante verschillen tussen zitten. Ook gaf de chi-test dat er daadwerkelijk een verband is tussen ethanol concentraties en het ontkiemingsaantal.
+Conclusie: Onze data is significant
+
+
+
+# 07-06-2026
+Doel: Artikelen zoeken
+Motivatie: 
+
+Werkzaamheden: Artikelen voor gebruik in eigen artikel zijn gezocht
+
+
+# 08-06-2026
+Doel: Schrijven introductie
+Motivatie:Het artikel moet worden geschreven.
+
+Werkzaamheden: Introductie is geschreven. verder heb ik ook nog de indeling van de github wat verbeterd.
+
+Resultaten: Introductie is gemaakt
+Conclusie: Morgen de laatste puntjes op de i zetten.
+
+
+# 09-06-2026
+Doel: Uitvoeren statistische tests en afschrijven artikel en netjes maken van bestanden en github.
+Motivatie: Vandaag is de laatste dag
+
+Werkzaamheden: Samen hebben we het artikel afgeschreven. Ook hebben we nog een extra grafiek en anova test gedaan om te kijken wat het effect is van in welk petrischaaltje de planten stonden op de lengte van de planten. Ook heb ik de github structuur nog correct gemaakt en eventueel bestands namen aangepast waar dit nodig was.
+
+Resultaten: Barplot van petrischaaltjes:
+![](data/groei_per_petrischaal.png)
+Conclusie: Klaar om ingeleverd ter worden!

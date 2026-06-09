@@ -1,9 +1,20 @@
 ---
 title: "Invloed van ethanol op de groei en ontkiemingsaantal van de tuinkers (Lepidium sativum)"
+author: "Fabian Kinds en Oscar Dogger"
+date: "09-06-2026"
 output: html_document
 ---
 
 # Abstract
+
+Invloed van ethanol op de groei en ontkiemingsaantal van de tuinkers (Lepidium sativum)
+
+Planten zijn een essentieel onderdeel van ons ecosysteem. Overal op aarde zijn ze te vinden en om dit mogelijk te maken zijn er veel verschillende plantensoorten die onder verschillende omstandigheden kunnen overleven. Alcohol komt in de natuur zelden voor in deze ondergrond. Daarom is het interresant om te onderzoeken hoe ze hier op zouden reageren.
+In dit onderzoek wordt gekeken naar hoe tuikersen reageren op verschillende concentraties alcohol in water.
+Specifiek naar de invloed die het heeft op de lengte, kleur en vorm van de plant en wat voor invloed dit heeft op de ontkieming ratio van de zaadjes.
+Tuinkerszaadjes worden gedurend een periode van 10 dagen blootgesteld aan verschillende ethanolconcentraties: 0.0%, 0.1%, 0.5%, 1%, 2%, 5% en 10%. Per concentratie zijn er drie petrischaaltjes met 10 tuinkerszaadjes per schaaltje. Dagelijks word het aantal ontkiemde zaadjes geteld en de lengte van de stam per petrischaaltje. 
+De resultaten tonen aan dat ethanol, onder deze experimentele omstandigheden, een remmend effect hebben op de groei en dus de lengte van de tuinkers. Dit effect is goed te zien bij de hoogste concentratie 10% waarbij lengte en ontkiemingsaantallen sterk achterbleven in vergelijking tot de andere concentraties. Bij lagere concentraties is het effect op het ontkiemingsaantal minder sterk, maar de gemiddelde lengte blijft wel lager dan bij de controlegroep. Het ethanol lijkt onder deze omstandigheden geen effect te hebben op kleur of vorm van de planten. Ondanks de genoemde beperkingen laat het onderzoek wel zien dat ethanol vooral invloed heeft op de plant zijn groei en dat het alleen invloed heeft op het ontkiemingsaantal bij hoge percentage ethanol oplossingen. 
+
 
 # Introductie
 

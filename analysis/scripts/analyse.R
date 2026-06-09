@@ -1,7 +1,7 @@
 library("ggplot2")
 library("dplyr")
 library("tidyverse")
-setwd("C:/Users/Fabian/Alcoholishe-tuinkers/raw_data")
+setwd("../raw_data")
 
 df <- read.csv("2026-05-growth-tuinkers-alcohol.csv")
 df <- rename(df, concentratie = concentratie_ethanol, lengte = lengte_cm)
